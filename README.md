@@ -1,5 +1,3 @@
-[![](https://img.shields.io/badge/Discord-7289da?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/vVrSVgC)
-
 ## Techology Stack
 [![](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.google.com/search?q=javascript)
 [![](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)](https://www.google.com/search?q=nodejs)
