@@ -10,7 +10,7 @@
 [![](https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white)](https://www.google.com/search?q=apache)
 [![](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)](https://www.google.com/search?q=java)
 [![](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)](https://www.google.com/search?q=mysql)
-[![](https://img.shields.io/badge/C-%2300f.svg?&style=for-the-badge&logo=C&logoColor=white)](https://www.google.com/search?q=C)
+[![](https://img.shields.io/badge/C-%2300f.svg?&style=for-the-badge&logo=&logoColor=white)](https://www.google.com/search?q=C)
 
 ## Learning
 [![](https://img.shields.io/badge/Electron-171C2D?&style=for-the-badge&logo=electron&logoColor=white)](https://www.google.com/search?q=electronjs)
